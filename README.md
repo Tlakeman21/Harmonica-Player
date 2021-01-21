@@ -1,5 +1,4 @@
 # Harmonica-Player
-FIT Assignment
 
 Hello Classmates,
 
